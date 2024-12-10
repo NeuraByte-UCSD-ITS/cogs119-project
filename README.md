@@ -13,11 +13,8 @@ Throughout the COGS 119 Project, I actively took initiative to keep the project 
 * **Project Work: Experiment Draft (Group Submission):** We began by forking the provided project repository and created our own branch. My individual work can be found on the "Edwin" branch within the forked repository [link: [https://github.com/darwinzyyu/cogs119_testrepo/tree/edwin-trials/Experiment_Draft](https://github.com/darwinzyyu/cogs119_testrepo/tree/edwin-trials/Experiment_Draft)]. Similar to the introduction, I shared this draft with the team for potential contributions, but I don't believe any changes were made.
   
 * **Project Work: Methods Preregistration (Group Submission):** Again, I took the initiative to complete this assignment and shared it with the group for potential feedback. However, I left the "Data Analysis" section blank as we hadn't discussed or reached a consensus on how we would approach the analysis. It's possible that other team members filled in this section before final submission.
-  
-* **Project Work: Data Analysis "Massive Memory Analysis.ipynb"**:  While reviewing the final version of this notebook [link: [https://colab.research.google.com/drive/1s425jSClt8KF6oqUVIwIXOTAugl11Fbf?usp=sharing](https://colab.research.google.com/drive/1s425jSClt8KF6oqUVIwIXOTAugl11Fbf?usp=sharing)], I noticed updates to the "Section 3. Plot" made sometime between Sunday (12/8) and today, Monday (likely by Darwin). My understanding is that Darwin completed the analysis up to the middle of Section 3, while I finished the remaining sections.
-* **Project Work: Final Project Report (Individual Submission):** I completed my final report, but this time, I only shared it directly with Darwin. I requested him to distribute it to anyone he felt contributed significantly to the project. Based on my involvement, I believe the main contributors were Darwin and myself.
 
-Lastly, these were the contributions I completed after receiving feedback (as reported on Google doc "Meeting Notes for Massive_Memory" Page 4 [ https://docs.google.com/document/d/1uynRFmnUuxCl4y4xWxjCsanNQOw6epT-ksTw0ePSl1Q/edit?usp=sharing ]:
+* **Project Work - Final Experiment (Group Submission):**  contributions I completed after receiving feedback (as reported on Google doc "Meeting Notes for Massive_Memory" Page 4 [link: [https://docs.google.com/document/d/1uynRFmnUuxCl4y4xWxjCsanNQOw6epT-ksTw0ePSl1Q/edit?usp=sharing](https://docs.google.com/document/d/1uynRFmnUuxCl4y4xWxjCsanNQOw6epT-ksTw0ePSl1Q/edit?usp=sharing)]
 - added Preload Images
 - removed feedback during test 
 - removed repeated incorrect trials 
@@ -29,3 +26,8 @@ Lastly, these were the contributions I completed after receiving feedback (as re
 - added Participant survey feedback,
 - removed final data display ("jsPsych.data.displayData()")
 - included instructors code that adds participant ID entry field and fixation duration to 800ms
+  
+* **Project Work: Data Analysis "Massive Memory Analysis.ipynb"**:  While reviewing the final version of this notebook [link: [https://colab.research.google.com/drive/1s425jSClt8KF6oqUVIwIXOTAugl11Fbf?usp=sharing](https://colab.research.google.com/drive/1s425jSClt8KF6oqUVIwIXOTAugl11Fbf?usp=sharing)], I noticed updates to the "Section 3. Plot" made sometime between Sunday (12/8) and today, Monday (likely by Darwin). My understanding is that Darwin completed the analysis up to the middle of Section 3, while I finished the remaining sections.
+
+  
+* **Project Work: Final Project Report (Individual Submission):** I completed my final report, but this time, I only shared it directly with Darwin. I requested him to distribute it to anyone he felt contributed significantly to the project. Based on my involvement, I believe the main contributors were Darwin and myself.
